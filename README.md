@@ -1,1 +1,2 @@
 # kasper-portfolio
+This portfolio is a collection of web pages showcasing an individual's projects or achievements. It includes a home page that introduces the portfolio owner and provides links to the various sections of the portfolio. Each section features images, text, and possibly video. The portfolio is designed using HTML and styled with CSS to create an attractive, responsive, and easy-to-navigate user interface.
